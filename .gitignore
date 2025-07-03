@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Obsidian workspace settings (optional; remove if you want to sync settings)
+#.obsidian/workspace.json
+#.obsidian/workspace-mobile.json
+
+# Trash and backups
+.Trash/
+.backups/
+cache/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
