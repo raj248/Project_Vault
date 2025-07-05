@@ -81,5 +81,3 @@ A **structured vault** to **plan, manage, and schedule projects** with clear goa
 ## License
 
 Personal vault. Shared here for **backup and learning purposes**.
-
----
